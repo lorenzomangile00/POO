@@ -1,0 +1,15 @@
+C:\Users\53101823811\Desktop\POO\ClasseObjetos\obj\Debug\net9.0\ClasseObjetos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\53101823811\Desktop\POO\ClasseObjetos\obj\Debug\net9.0\ClasseObjetos.AssemblyInfoInputs.cache
+C:\Users\53101823811\Desktop\POO\ClasseObjetos\obj\Debug\net9.0\ClasseObjetos.AssemblyInfo.cs
+C:\Users\53101823811\Desktop\POO\ClasseObjetos\obj\Debug\net9.0\ClasseObjetos.csproj.CoreCompileInputs.cache
+C:\Users\53101823811\Desktop\POO\ClasseObjetos\obj\Debug\net9.0\ClasseObjetos.sourcelink.json
+C:\Users\53101823811\Desktop\POO\ClasseObjetos\bin\Debug\net9.0\ClasseObjetos.exe
+C:\Users\53101823811\Desktop\POO\ClasseObjetos\bin\Debug\net9.0\ClasseObjetos.deps.json
+C:\Users\53101823811\Desktop\POO\ClasseObjetos\bin\Debug\net9.0\ClasseObjetos.runtimeconfig.json
+C:\Users\53101823811\Desktop\POO\ClasseObjetos\bin\Debug\net9.0\ClasseObjetos.dll
+C:\Users\53101823811\Desktop\POO\ClasseObjetos\bin\Debug\net9.0\ClasseObjetos.pdb
+C:\Users\53101823811\Desktop\POO\ClasseObjetos\obj\Debug\net9.0\ClasseObjetos.dll
+C:\Users\53101823811\Desktop\POO\ClasseObjetos\obj\Debug\net9.0\refint\ClasseObjetos.dll
+C:\Users\53101823811\Desktop\POO\ClasseObjetos\obj\Debug\net9.0\ClasseObjetos.pdb
+C:\Users\53101823811\Desktop\POO\ClasseObjetos\obj\Debug\net9.0\ClasseObjetos.genruntimeconfig.cache
+C:\Users\53101823811\Desktop\POO\ClasseObjetos\obj\Debug\net9.0\ref\ClasseObjetos.dll
