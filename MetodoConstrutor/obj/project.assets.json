@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\53101823811\\Desktop\\POO\\PrimeiraClasse\\PrimeiraClasse.csproj",
-      "projectName": "PrimeiraClasse",
-      "projectPath": "C:\\Users\\53101823811\\Desktop\\POO\\PrimeiraClasse\\PrimeiraClasse.csproj",
+      "projectUniqueName": "C:\\Users\\53101823811\\Desktop\\POO\\MetodoConstrutor\\Construtor.csproj",
+      "projectName": "Construtor",
+      "projectPath": "C:\\Users\\53101823811\\Desktop\\POO\\MetodoConstrutor\\Construtor.csproj",
       "packagesPath": "C:\\Users\\53101823811\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\53101823811\\Desktop\\POO\\PrimeiraClasse\\obj\\",
+      "outputPath": "C:\\Users\\53101823811\\Desktop\\POO\\MetodoConstrutor\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\53101823811\\AppData\\Roaming\\NuGet\\NuGet.Config"
