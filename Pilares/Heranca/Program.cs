@@ -11,10 +11,10 @@ Gato g1 = new Gato();
  Console.WriteLine("Som do Animal:");
  a1.FazerSom();
 
-Console.WriteLine("\nSom do Cachorro:");
+Console.WriteLine("Som do Cachorro:");
  c1.FazerSom();
 
- Console.WriteLine("\nSom do Gato:");
+ Console.WriteLine("Som do Gato:");
  g1.FazerSom();
 
  -----------------------------

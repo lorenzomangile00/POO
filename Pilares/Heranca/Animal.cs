@@ -7,7 +7,7 @@ namespace Heranca
         
         public void FazerSom()
         {
-            
+            System.Console.WriteLine($"O animal realizou um som.");
         }
     }
 }
