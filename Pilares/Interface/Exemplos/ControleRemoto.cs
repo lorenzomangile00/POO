@@ -2,7 +2,7 @@
 
 namespace Exemplos
 {
-    public class ControleRemoto : IControle.3
+    public interface Controleremoto1 : IControle
     {
         
         public int NivelVolume = 0;
