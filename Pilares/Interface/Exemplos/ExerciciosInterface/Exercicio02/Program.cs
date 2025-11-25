@@ -74,7 +74,6 @@ void CadastrarContrato()
     string contratada = Console.ReadLine();
     System.Console.WriteLine($"Digite as clausulas do relatorio: ");
     string txtClausulas = Console.ReadLine();
-
     Contrato c = new Contrato(contratante, contratada, txtClausulas);
 
     documentos.Add(c);
